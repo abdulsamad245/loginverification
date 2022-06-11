@@ -3,7 +3,7 @@
     require_once 'snippets/header.php';
     //require_once 'db/conn.php';
 
-    $result = $crud->getSpecialties();
+    //$result = $crud->getSpecialties();
 
 ?>
     <div class="container">
